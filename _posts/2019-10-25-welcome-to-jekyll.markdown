@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Breast Cancer with Machine Learning"
 date:   2019-10-25 19:18:39 +0200
 categories: jekyll update
 ---
